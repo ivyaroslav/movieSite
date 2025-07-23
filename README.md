@@ -1,1 +1,2 @@
 # movieSite
+A responsive and modern web application for discovering movies. Built with React.js and styled using TailwindCSS, the app features a dynamic trending section, real-time search functionality, and a clean user interface. It uses API to fetch movie data, making it easy for users to explore popular and trending films, view rating, release date of the movies and discover new favorites.
